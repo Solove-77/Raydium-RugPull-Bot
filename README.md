@@ -5,7 +5,6 @@
 telegram: [Solove](https://t.me/@Solove_77)
 
 You can contact me here if you have any problems with this repo.
-This repo is eliminated some valuable part like runnning trading bot part.
 
 ## Overview
 
